@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: inherit;
+    color: #cc0099;
   }
 }
 
@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: #e60000;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #e60000;
   }
 }
 
@@ -165,8 +165,8 @@ img {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
+  width: 80px;
+  height: 80px;
   margin-right: 15px;
 
   @include mobile {
@@ -196,14 +196,14 @@ img {
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
-  font-size: 28px;
+  font-size: 32px;
   letter-spacing: 1px;
 }
 
 .site-description {
   margin: -5px 0 0 0;
   color: #ff0000;
-  font-size: 16px;
+  font-size: 20px;
 
   @include mobile {
     margin: 3px 0;

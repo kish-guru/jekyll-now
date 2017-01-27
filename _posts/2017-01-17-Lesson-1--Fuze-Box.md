@@ -8,7 +8,7 @@ published: true
 ---
 <table>
   <tr>
-    <table>Title</table>
+    <td>Title</td>
     <td>Introduction to the "Fuze Box"</td>
     <td>Date of Lesson</td>
     <td>17/01/17</td>

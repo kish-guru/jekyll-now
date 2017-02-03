@@ -45,7 +45,7 @@ Lesson Review</td>
   </tr>
   <tr>
     <td>
-I learnt in this lesson by doing the same code over and over again, adding new code each time. Most of the coding my partner and I did during the lesson resulted in a conversation with the computer. For example, we coded it to say "Hello, what is your name" and then we could type whatever we wanted. After we typed it said “What is your favourite hobby” and then we typed anything we wanted etc. For the rest of the lesson(10 mins) we just messed around with the computer putting in random things. When it asked “How old are you?”, we said 100 and it said “Wow that's really old!”</td>
+I learnt in this lesson by doing the same code over and over again, adding new code each time. Most of the coding my partner and I did during the lesson resulted in a conversation with the computer. For example, we coded it to say "Hello, what is your name" and then we could type whatever we wanted. After we typed it said “What is your favourite hobby” and then we typed anything we wanted etc. For the rest of the lesson(10 mins) we tried different answers and saw how it responded. When it asked “How old are you?”, we said 100 and it said “Wow that's really old!”</td>
   </tr>
   <tr>
     <td>

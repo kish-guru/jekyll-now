@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: #ffff00;
+    color: #ff0000;
   }
 }
 
@@ -202,7 +202,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #ff0000;
+  color: #ffff00;
   font-size: 20px;
 
   @include mobile {

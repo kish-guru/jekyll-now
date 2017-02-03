@@ -20,7 +20,7 @@ html {
 body {
 	background-image:url(http://www.varzesh11.com/images/user/post/140939_510.jpg);
   font: 20px/1.4 "Comic Sans MS", Times, serif;
-  color: #ff6600;
+  color: #ffff00;
 }
 
 .container {
@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Times New Roman", Times, serif;
-  color: #ffff00;
+  color: #ff0000;
   font-weight: bold;
 
   line-height: 1.7;
@@ -202,7 +202,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #ff6600;
+  color: #ff0000;
   font-size: 20px;
 
   @include mobile {

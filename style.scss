@@ -20,7 +20,7 @@ html {
 body {
 	background-image:url(http://2.bp.blogspot.com/-CBmztkfRznE/UGPSK4-eybI/AAAAAAAAATc/nAieRFv_IW0/s1600/manchester_united_logo_pictures_wallpaper2.jpg);
   font: 20px/1.4 "Comic Sans MS", Times, serif;
-  color: #ffff00;
+  color: #0066ff;
 }
 
 .container {
@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: #ff0000;
+    color: #00cc00;
   }
 }
 
@@ -71,11 +71,11 @@ p {
 }
 
 a {
-  color: #e60000;
+  color: #0066ff;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #e60000;
+    color: #0066ff;
   }
 }
 
@@ -194,7 +194,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: #ffff00;
+  color: #00cc00;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -204,7 +204,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #ffff00;
+  color: #0066ff;
   font-size: 20px;
 
   @include mobile {
